@@ -25,6 +25,7 @@ extension ExternalDependencyName {
     // Etc.
     public static let then = ExternalDependencyName(rawValue: "Then")!
     public static let swiftCollections = ExternalDependencyName(rawValue: "Collections")!
+    public static let inject = ExternalDependencyName(rawValue: "Inject")!
     
     // Google API
     public static let googleSignIn = ExternalDependencyName(rawValue: "GoogleSignIn")!
