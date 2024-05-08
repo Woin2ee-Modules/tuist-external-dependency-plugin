@@ -26,6 +26,9 @@ extension ExternalDependencyName {
     public static let then = ExternalDependencyName(rawValue: "Then")!
     public static let swiftCollections = ExternalDependencyName(rawValue: "Collections")!
     public static let inject = ExternalDependencyName(rawValue: "Inject")!
+    public static let swiftSyntaxMacros = ExternalDependencyName(rawValue: "SwiftSyntaxMacros")!
+    public static let swiftCompilerPlugin = ExternalDependencyName(rawValue: "SwiftCompilerPlugin")!
+    public static let swiftSyntaxMacrosTestSupport = ExternalDependencyName(rawValue: "SwiftSyntaxMacrosTestSupport")!
     
     // Google API
     public static let googleSignIn = ExternalDependencyName(rawValue: "GoogleSignIn")!
