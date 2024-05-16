@@ -19,7 +19,9 @@ dependencies: [
 
 ### # Prepare packages
 
-It's the same way Tuist recommends. Tuist [documentation](https://docs.tuist.io/guide/project/dependencies.html#external-dependencies).
+It's the same way Tuist recommends. Tuist [documentation](https://docs.tuist.io/guide/project/dependencies.html#external-dependencies).  
+This plugin **does not specify packages** to use. Just supports using the name of external dependencies programmatically.  
+So, you have to declare `Package.swift` file like below,
 
 #### Package.swift
 
