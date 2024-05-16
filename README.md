@@ -81,6 +81,9 @@ let target = Target.target(
 )
 ```
 
+## Default supports external dependencies
+Check it out [here](https://github.com/Woin2ee-Modules/tuist-external-dependency-plugin/blob/main/ProjectDescriptionHelpers/ExternalDependencyName%2BDefault.swift)
+
 ## Compatibility
 
 - [Tuist](https://github.com/tuist/tuist) : 4.11.0 ~
